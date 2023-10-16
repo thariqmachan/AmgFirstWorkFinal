@@ -1,0 +1,635 @@
+.header{
+    width: 100vw;
+    height: 100px;
+    margin-bottom: 48px;
+}
+
+
+/* first container  */
+
+.container{
+    width: 100vw;
+    padding-left: 243px;
+    padding-right: 243px;
+
+}
+.ctn img:first-child{
+    position: absolute;
+    top: 278px;
+    left: 371px;
+}
+.ctn img{
+    position: absolute;
+    top: 430px;
+    left: 341px;
+}
+.date img{
+    top: 652px;
+    left: 390px;
+}
+#dateicon{
+    top: 655px;
+    left: 339px;
+}
+.time img{
+    top: 706px;
+    left: 390px;
+}
+#timeicon{
+    top: 709px;
+    left: 338px;
+}
+#registerbtn{
+    top: 808px;
+    left: 338px;
+}
+.speaker img{
+    top: 798px;
+    left: 1285px;
+}
+#speaker{
+    top: 803px;
+    left: 1160px;
+}
+#haleon{
+    top: 849px;
+    left: 1383px;
+}
+#registernw{
+    top: 834px;
+    left: 431px;
+    height: 36px;
+    width: 178px;
+}
+#details img{
+    position: absolute;
+    top: 5680px;
+    left: 389px;
+}
+#details2 img{
+    position: absolute;
+    top: 5680px;
+    left: 1087px;
+}
+#ireland1{
+    position: absolute;
+    top: 5720px;
+    left: 389px;
+}
+#ireland2{
+    position: absolute;
+    top: 5720px;
+    left: 1087px;
+}
+
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    /* width: 1920px; */
+    /* height: 6727px; */
+}
+
+.ctn{
+    background-image: url('/mg1/Mask\ Group\ 1.png');
+    width: 1434px;
+    height: 824px;
+}
+
+/* font-family: 'Open Sans', sans-serif; */
+
+.secctn img{
+    height: 523px;
+    width: 563px;
+    margin-left: 243px;
+    margin-top: 106px;  
+}
+.secondcontainer{
+    display: flex;
+}
+.secctn {
+    flex: 1;
+    /* border: 2px solid yellow; */
+}  
+
+.secctn:first-child {
+    margin-right: 72px;
+}
+
+.secctncontent h2{
+    width: 795px;
+    height: 115px;
+    margin-top: 189px;
+    font-size: 40px;
+    font-family: 'Open Sans', sans-serif;
+
+
+}
+.secctncontent p{
+    width: 799px;
+    height: 205px;
+    font-size: 24px;
+    margin-top: 12px;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 36px;
+}
+
+/* third container  */
+.thirdcontainer{
+    margin-top: 141px;
+    margin-left: 338px;
+}
+.thirdcontainer p{
+    width: 1227px;
+    height: 235px;
+    font-size: 40px;
+    font-family: 'Open Sans', sans-serif;  
+}
+.thirdcontent span{
+    color: #CB1E1F;
+    font-weight: 600;
+}
+
+
+/* fourth container */
+.fourthcontent h2{
+    font-size: 40px;
+    margin-left: 338px;
+    margin-top: 111px;
+}
+
+.boxes{
+    width: 700px;
+    height: 500px;
+    margin-top: 38px;
+    /* background-color: tomato; */
+    margin-left: 243px;
+    display: flex;
+}
+.box1{
+    /* background-color: aqua; */
+    padding-right: 180px;
+    padding-bottom: 45px;
+    
+}
+.box1 img{
+    margin-left: 95px;
+    margin-top: 83px;
+    width: 104px;
+    height: 104px;
+}
+.box1 h2{
+    margin-top: 38px;
+    margin-left: 95px;
+    width: 298px;
+    height: 105px;
+    font-size: 40px;
+    font-family: 'Open Sans', sans-serif;
+}
+.box1 p{
+    width: 425px;
+    height: 89px;
+    font-size: 24px;
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 95px;
+    margin-top: 30px;
+    margin-bottom: 51px;
+
+}
+
+.box2{
+    /* background-color: rgb(255, 0, 17); */
+    margin-left: 34px;
+    padding-right: 180px;
+    padding-bottom: 45px;
+
+
+}
+.box2 img{
+    margin-left: 95px;
+    margin-top: 83px;
+    width: 104px;
+    height: 104px;
+}
+.box2 h2{
+    margin-top: 38px;
+    margin-left: 95px;
+    width: 298px;
+    height: 105px;
+    font-size: 40px;
+    font-family: 'Open Sans', sans-serif;
+}
+.box2 p{
+    width: 425px;
+    height: 89px;
+    font-size: 24px;
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 95px;
+    margin-top: 30px;
+    margin-bottom: 51px;
+
+}
+
+
+.boxes2{
+    width: 700px;
+    height: 570px;
+    margin-top: 38px;
+    /* background-color: tomato; */
+    margin-left: 243px;
+    display: flex;
+}
+
+.box12{
+    /* background-color: aqua; */
+    padding-right: 93px;
+    padding-bottom: 45px;
+    
+}
+.box12 img{
+    margin-left: 95px;
+    margin-top: 96px;
+    width: 104px;
+    height: 104px;
+}
+.box12 h2{
+    margin-top: 30px;
+    margin-left: 95px;
+    width: 428px;
+    height: 105px;
+    font-size: 40px;
+    font-family: 'Open Sans', sans-serif;
+}
+.box12 p{
+    width: 515px;
+    height: 158px;
+    font-size: 24px;
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 95px;
+    margin-top: 30px;
+    margin-bottom: 47px;
+
+}
+
+.box21{
+    /* background-color: rgb(255, 0, 17); */
+    margin-left: 34px;
+    padding-right: 75px;
+    padding-bottom: 45px;
+
+
+}
+.box21 img{
+    margin-left: 88px;
+    margin-top: 96px;
+    width: 104px;
+    height: 104px;
+}
+.box21 h2{
+    margin-top: 30px;
+    margin-left: 88px;
+    width: 360px;
+    height: 105px;
+    font-size: 40px;
+    font-family: 'Open Sans', sans-serif;
+}
+.box21 p{
+    width: 536px;
+    height: 158px;
+    font-size: 24px;
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 88px;
+    margin-top: 30px;
+    margin-bottom: 47px;
+
+}
+
+
+/* fifth container  */
+.fivthcontainer{
+    display: flex;
+    margin-top: 34px;
+    margin-left: 243px;
+    /* background-color: antiquewhite; */
+    width: 1434px;
+    height: 250px;
+}
+.image img{
+    width: 104px;
+    height: 104px;
+    margin-left: 95px;
+    margin-top: 75px;
+    margin-bottom: 71px;
+}
+.content h2{
+    width: 260px;
+    height: 55px;
+    margin-left: 89px;
+    margin-top: 49px;
+    font-size: 40px;
+    font-family: 'Open Sans', sans-serif;   
+}
+.content p{
+    width: 1070px;
+    height: 83px;
+    font-size: 24px;
+    font-family: 'Open Sans', sans-serif;  
+    margin-left: 89px;
+    margin-top: 23px;
+}
+
+
+/* sixth container  */
+.sixthcontainer{
+    display: flex;
+    margin-left:243px;
+    margin-top: 34px;
+    width: 1434px;
+}
+.happyclient img{
+    width: 648px;
+    height: 449px;
+}
+.happycontent{
+    background-color: #C40001;
+    height: 449px;
+    width:1000px;   
+}
+.happycontent h2{
+    font-size: 40px;
+    font-family: 'Open Sans', sans-serif;  
+    margin-top: 69px;
+    margin-left: 126px;
+    color: #fff;
+}
+.happycontent p{
+    font-size: 24px;
+    width: 531px;
+    height: 113px;
+    margin-left: 126px;
+    color: #fff;
+    font-family: 'Open Sans', sans-serif;  
+}
+.happycontent img{
+    margin-left: 114px;
+    margin-bottom: 46px;
+}
+
+
+/* seventh container  */
+.seventhcontainer{
+    background-color: #001A68;
+    width: 1434px;
+    height: 377px;
+    margin-left: 243px;
+   
+}
+
+.seventhcontainer h2{
+    color: #fff;
+   margin-left: 95px;
+   font-size: 40px;
+   font-family: 'Open Sans', sans-serif;  
+   padding-top: 137px;
+}
+
+.seventhcontainer p{
+    margin-top: 34px;
+    color: #fff;
+    margin-left: 95px;
+    font-size: 24px;
+    width: 1202px;
+    height: 73px;
+   font-family: 'Open Sans', sans-serif;  
+
+}
+
+
+/* Eight container  */
+.eightcontainer h2{
+    margin-left: 338px;
+    width: 700px;
+    height: 55px;
+    font-size: 40px;
+   font-family: 'Open Sans', sans-serif;  
+   margin-top: 91px;
+
+
+}
+.eightcontainer img{
+    margin-left: 243px;
+    margin-top: 0px;
+}
+
+
+/* testimonials  */
+.test{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 1434px;
+
+}
+
+ .test p{
+    font-family: 'Open Sans', sans-serif;  
+    font-size: 40px;
+    margin: 0px;
+    margin-left: 338px;
+    width: 235px;
+    height: 55px;
+    margin-top: 111px;
+    font-weight: 600;
+
+ }
+
+ .test img{
+    width: 40px;
+    height: 40px;
+    margin-top: 111px;
+ }
+
+ .test #larrow{
+    margin-left: 972px;
+ }
+
+ .test #rarrow{
+    margin-left: 29px;
+    transform:rotate(180deg);
+
+ }
+
+
+ /* footer  */
+.footer{
+    background-image: url('./mg1/Group\ 4.png'); 
+    width: 2150px;
+    height: 232px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.people{
+    display: flex;
+    margin-left: 243px;
+    margin-top: 34px;
+}
+.people-1 img{
+    margin-left: 93px;
+    margin-top: 98px;
+}
+
+
+
+.people-1 p{
+    width: 515px;
+    height: 168px;
+    font-size: 24px;
+    font-family: 'Open Sans', sans-serif; 
+    margin-left: 98px;
+    margin-bottom: 68px;
+    padding-right: 92px;
+    /* margin-top: -62px; */
+
+
+
+}
+
+.people-2 p{
+    width: 515px;
+    height: 168px;
+    font-size: 24px;
+    font-family: 'Open Sans', sans-serif; 
+    margin-left: 93px;
+    margin-bottom: 68px;
+    padding-right: 92px;
+    /* margin-top: -62px; */
+
+}
+.people-2 img{
+    margin-left: 93px;
+    margin-top: 98px;
+}
+/* #details{
+    position: absolute;
+    bottom: -5521px; 
+    left: 463px;
+}
+#details2{
+    position: absolute;
+    bottom: -5521px; 
+    left: 1172px;
+} */
+
+
+/* ninth content  */
+.ninthcont{
+    display: flex;
+    margin-left: 338px;
+    margin-top: 158px;
+    /* align-items: center;
+    justify-content: space-evenly; */
+}
+
+.group-2{
+    margin-left: 208px;
+    /* margin-right: 199px; */
+}
+
+
+
+
+
+.group-3{
+    padding-left: 199px;
+    
+}
+.group-3 img{
+    margin-bottom: 130px;
+    margin-top: -20px;
+}
+.twoimg{
+    display: flex;
+    flex-direction: row;
+}
+
+
+
+
+
+/* @media  (max-width:600px) {
+    
+        .ctn{
+            background-image: url('/mg1/Mask\ Group\ 1.png');
+            width: 1134px;
+            height: 524px;
+        }
+        .container{
+            width: 100vw;
+            padding-left: 143px;
+            padding-right: 143px;
+        
+        }
+        .thirdcontainer{
+            margin-top: 41px;
+            margin-left: 50px;
+        }
+        .thirdcontainer p{
+            width: 727px;
+            height: 135px;
+            font-size: 30px;
+            font-family: 'Open Sans', sans-serif;  
+        }
+        .thirdcontent span{
+            color: #CB1E1F;
+            font-weight: 600;
+        }
+    
+} */
+
+/* @media  (max-width:375px) {
+    
+   
+    .thirdcontainer{
+        margin-top: 41px;
+        margin-left: 100px;
+    }
+    .thirdcontainer p{
+        width: 827px;
+        height: 135px;
+        font-size: 30px;
+        font-family: 'Open Sans', sans-serif;  
+    }
+    .thirdcontent span{
+        color: #CB1E1F;
+        font-weight: 600;
+    }
+
+} */
+
+/* @media  (max-width:425px) {
+    
+   
+    .thirdcontainer{
+        margin-top: 41px;
+        margin-left: 90px;
+    }
+    .thirdcontainer p{
+        width: 1100px;
+        height: 135px;
+        font-size: 30px;
+        font-family: 'Open Sans', sans-serif;  
+    }
+    .thirdcontent span{
+        color: #CB1E1F;
+        font-weight: 600;
+    }
+
+}
+ */
+
+
+
+
+
